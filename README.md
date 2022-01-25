@@ -25,7 +25,7 @@ Now I work as a consultant for Cloud Infrastructure and Application Architechtur
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=tuimac&theme=gruvbox&column=8&no-bg=true&margin-w=8" />
 
-## Connection
+## Contacts
 <p align="left">
 <a href="https://twitter.com/tuimac6b6b" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuimac6b6b" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/kento-k-429066190" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kento kashiwagi" height="20" width="30" /></a>
