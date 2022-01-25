@@ -19,7 +19,7 @@ Now I work as a consultant for Cloud Infrastructure and Application Architechtur
 
 ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuimac&show_icons=true&theme=gruvbox_light&locale=en&layout=compact" alt="tuimac" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuimac&theme=gruvbox_light&)](https://github.com/tuimac/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=tuimac&theme=gruvbox_light&)](https://github.com/tuimac/github-readme-stats)
 
 ## Connection
 <p align="left">
