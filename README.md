@@ -23,7 +23,7 @@ Now I work as a consultant for Cloud Infrastructure and Application Architechtur
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuimac&show_icons=true&theme=gruvbox_light&locale=en&layout=compact" alt="tuimac" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=tuimac&count_private=true&show_icons=true&show_icons=true&theme=gruvbox_light" />
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=tuimac&theme=gruvbox&column=8&no-bg=true&margin-w=3&margin-h=3" />
+<img src="https://github-profile-trophy.vercel.app/?username=tuimac&theme=gruvbox&column=8&no-bg=true&margin-w=8" />
 
 ## Connection
 <p align="left">
