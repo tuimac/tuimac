@@ -11,7 +11,7 @@
 </p>
 
 ## Intro
-I worked as a architecht for Cloud Infrastructure. <br/>
+I worked as a architect for Cloud Infrastructure. <br/>
 Now I work as a consultant for Cloud Infrastructure and Application Architechture.
 
 ## Skills
